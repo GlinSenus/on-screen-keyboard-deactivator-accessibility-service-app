@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.App" parent="Theme.Material3.DayNight.Dialog">
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:windowBackground">@drawable/dialog_background</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowElevation">16dp</item>
+        <item name="windowActionBar">false</item>
+    </style>
+</resources>

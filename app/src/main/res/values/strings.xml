@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">On-Screen Keyboard Deactivator</string>
+    <string name="service_description">Hides or shows the on-screen keyboard with one click. It does not read your screen or your typing.</string>
+
+    <string name="tile_label">Hide keyboard</string>
+    <string name="tile_hidden">Keyboard hidden</string>
+    <string name="tile_allowed">Keyboard allowed</string>
+    <string name="tile_service_off">Turn on service</string>
+    
+    <string name="service_active">Service is active</string>
+    <string name="service_inactive">Service is not active</string>
+    <string name="status_service_off">The service is off. Turn on Keyboard Toggle in Accessibility settings.</string>
+ 
+    <string name="button_toggle">Toggle keyboard</string>
+    <string name="button_settings">Open Accessibility settings</string>
+</resources>
+
